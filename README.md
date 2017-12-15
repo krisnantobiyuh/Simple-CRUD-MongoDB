@@ -1,5 +1,5 @@
 # Simple-CRUD-MongoDB
-This note for simple CRUD MongoDB
+Simple note CRUD MongoDB
 
 ## Clone Project
 ```git clone https://github.com/krisnantobiyuh/Simple-CRUD-MongoDB.git```
