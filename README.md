@@ -9,5 +9,5 @@ Simple note CRUD MongoDB
 
 ### Following this steps
 1. Change $url value in file index.php. corresponding your uRL.
-2. Change DB "cars" with your name database.
+2. Change "cars" name database with your database name.
 
